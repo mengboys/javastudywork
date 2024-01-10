@@ -1,0 +1,1844 @@
+[动态代理][⽇志] 17:12:39.784423100 完成了selectById，参数：[1]
+[动态代理][⽇志] 17:12:39.784423100 完成了selectById，结果：User{id=1, role=3, username='超管', password='123456', name='宋源博', idCard='120109200311222513'}
+[动态代理][⽇志] 17:12:39.784423100 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 17:15:00.786930500 完成了selectById，参数：[1]
+[动态代理][⽇志] 17:15:00.786930500 完成了selectById，异常：null
+[动态代理][⽇志] 17:15:00.786930500 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 17:18:31.248044300 完成了selectById，参数：[1]
+[动态代理][⽇志] 17:18:31.248044300 完成了selectById，结果：null
+[动态代理][⽇志] 17:18:31.248044300 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 18:05:03.053311300 完成了selectById，参数：[1]
+[动态代理][⽇志] 18:05:03.053311300 完成了selectById，结果：User{id=1, role=3, username='超管', password='123456', name='宋源博', idCard='120109200311222513'}
+[动态代理][⽇志] 18:05:03.053311300 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 10:59:06.630419400 完成了ChangePassword，参数：null
+[动态代理][⽇志] 10:59:06.630419400 完成了ChangePassword，结果：false
+[动态代理][⽇志] 10:59:06.630419400 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 10:59:15.768982600 完成了ChangePassword，参数：null
+[动态代理][⽇志] 10:59:15.768982600 完成了ChangePassword，结果：false
+[动态代理][⽇志] 10:59:15.768982600 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:02:15.905376500 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:02:15.905376500 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:02:15.905376500 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:02:18.545049100 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:02:18.545049100 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:02:18.545049100 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:11:52.946373800 完成了selectById，参数：[1]
+[动态代理][⽇志] 11:11:52.946373800 完成了selectById，结果：null
+[动态代理][⽇志] 11:11:52.946373800 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:12:10.138731 完成了selectById，参数：[1]
+[动态代理][⽇志] 11:12:10.138731 完成了selectById，结果：null
+[动态代理][⽇志] 11:12:10.138731 完成了selectById，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:12:37.674980400 完成了Login，参数：null
+[动态代理][⽇志] 11:12:37.674980400 完成了Login，结果：true
+[动态代理][⽇志] 11:12:37.674980400 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:13:44.852031700 完成了Login，参数：null
+[动态代理][⽇志] 11:13:44.852031700 完成了Login，结果：true
+[动态代理][⽇志] 11:13:44.852031700 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:14:04.549161300 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:14:04.549161300 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:14:04.549161300 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:14:17.484090600 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:14:17.484090600 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:14:17.484090600 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:16:00.476446200 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:16:00.476446200 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:16:00.476446200 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:17:12.386210900 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:17:12.386210900 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:17:12.386210900 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:19:09.822014500 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:19:09.822014500 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:19:09.822014500 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:19:26.668695300 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:19:26.668695300 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:19:26.668695300 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:24:44.219539 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:24:44.219539 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:24:44.219539 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:25:36.635530900 完成了Login，参数：null
+[动态代理][⽇志] 11:25:36.635530900 完成了Login，结果：true
+[动态代理][⽇志] 11:25:36.635530900 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:25:48.964978900 完成了Login，参数：null
+[动态代理][⽇志] 11:25:48.964978900 完成了Login，结果：false
+[动态代理][⽇志] 11:25:48.964978900 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:26:22.254744 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:29:01.198525900 完成了toString，参数：null
+[动态代理][⽇志] 11:29:01.198525900 完成了toString，结果：org.example.service.Impl.UserServiceImpl@29d89d5d
+[动态代理][⽇志] 11:29:01.198525900 完成了toString，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:29:08.205497800 完成了toString，参数：null
+[动态代理][⽇志] 11:29:08.205497800 完成了toString，结果：org.example.service.Impl.UserServiceImpl@29d89d5d
+[动态代理][⽇志] 11:29:08.205497800 完成了toString，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:29:08.205497800 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:29:08.205497800 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:33:46.630840100 完成了ChangePassword，参数：null
+[动态代理][⽇志] 11:33:46.630840100 完成了ChangePassword，结果：false
+[动态代理][⽇志] 11:33:46.630840100 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:57:32.078476900 完成了Login，参数：null
+[动态代理][⽇志] 11:57:32.078476900 完成了Login，结果：3
+[动态代理][⽇志] 11:57:32.078476900 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:57:37.109195200 完成了Login，参数：null
+[动态代理][⽇志] 11:57:37.109195200 完成了Login，结果：3
+[动态代理][⽇志] 11:57:37.109195200 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:58:18.152818100 完成了Login，参数：null
+[动态代理][⽇志] 11:58:18.152818100 完成了Login，结果：3
+[动态代理][⽇志] 11:58:18.152818100 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 11:58:49.677327900 完成了Login，参数：null
+[动态代理][⽇志] 11:58:49.677327900 完成了Login，结果：3
+[动态代理][⽇志] 11:58:49.677327900 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 12:01:40.827780900 完成了Login，参数：null
+[动态代理][⽇志] 12:01:40.827780900 完成了Login，结果：3
+[动态代理][⽇志] 12:01:40.827780900 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 12:02:01.289982100 完成了Login，参数：null
+[动态代理][⽇志] 12:02:01.289982100 完成了Login，结果：3
+[动态代理][⽇志] 12:02:01.289982100 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 12:02:08.320901200 完成了Login，参数：null
+[动态代理][⽇志] 12:02:08.320901200 完成了Login，结果：3
+[动态代理][⽇志] 12:02:08.320901200 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 12:03:54.321371500 完成了Login，参数：null
+[动态代理][⽇志] 12:03:54.321371500 完成了Login，结果：3
+[动态代理][⽇志] 12:03:54.321371500 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:23:20 完成了Login，参数：null
+[动态代理][⽇志] 14:23:20 完成了Login，异常：null
+[动态代理][⽇志] 14:23:20 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:23:59 完成了ChangePassword，参数：null
+[动态代理][⽇志] 14:23:59 完成了ChangePassword，结果：false
+[动态代理][⽇志] 14:23:59 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:26:28 完成了Login，参数：null
+[动态代理][⽇志] 14:26:28 完成了Login，结果：3
+[动态代理][⽇志] 14:26:28 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:27:05 完成了Login，参数：null
+[动态代理][⽇志] 14:27:05 完成了Login，结果：3
+[动态代理][⽇志] 14:27:05 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:27:26 完成了Login，参数：null
+[动态代理][⽇志] 14:27:26 完成了Login，结果：3
+[动态代理][⽇志] 14:27:26 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:46:26 完成了Login，参数：null
+[动态代理][⽇志] 14:46:26 完成了Login，结果：3
+[动态代理][⽇志] 14:46:26 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:46:32 完成了selectAll，参数：null
+[动态代理][⽇志] 14:46:32 完成了selectAll，结果：null
+[动态代理][⽇志] 14:46:32 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 14:46:34 完成了selectAll，参数：null
+[动态代理][⽇志] 14:46:34 完成了selectAll，结果：null
+[动态代理][⽇志] 14:46:34 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:22:45 完成了Login，参数：null
+[动态代理][⽇志] 15:22:45 完成了Login，结果：3
+[动态代理][⽇志] 15:22:45 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:22:51 完成了selectAll，参数：null
+[动态代理][⽇志] 15:22:51 完成了selectAll，结果：null
+[动态代理][⽇志] 15:22:51 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:23:53 完成了Login，参数：null
+[动态代理][⽇志] 15:23:53 完成了Login，结果：3
+[动态代理][⽇志] 15:23:53 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:23:59 完成了selectAll，参数：null
+[动态代理][⽇志] 15:23:59 完成了selectAll，结果：null
+[动态代理][⽇志] 15:23:59 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:24:27 完成了Login，参数：null
+[动态代理][⽇志] 15:24:27 完成了Login，结果：3
+[动态代理][⽇志] 15:24:27 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:24:31 完成了selectAll，参数：null
+[动态代理][⽇志] 15:24:31 完成了selectAll，结果：null
+[动态代理][⽇志] 15:24:31 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:37:01 完成了Login，参数：null
+[动态代理][⽇志] 15:37:01 完成了Login，结果：3
+[动态代理][⽇志] 15:37:01 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:39:08 完成了Login，参数：null
+[动态代理][⽇志] 15:39:08 完成了Login，结果：3
+[动态代理][⽇志] 15:39:08 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:39:13 完成了selectAll，参数：null
+[动态代理][⽇志] 15:39:13 完成了selectAll，结果：null
+[动态代理][⽇志] 15:39:13 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:39:16 完成了selectAll，参数：null
+[动态代理][⽇志] 15:39:16 完成了selectAll，异常：null
+[动态代理][⽇志] 15:39:16 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:40:59 完成了Login，参数：null
+[动态代理][⽇志] 15:40:59 完成了Login，结果：3
+[动态代理][⽇志] 15:40:59 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:41:04 完成了selectAll，参数：null
+[动态代理][⽇志] 15:41:04 完成了selectAll，结果：null
+[动态代理][⽇志] 15:41:04 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:49:36 完成了Login，参数：null
+[动态代理][⽇志] 15:49:36 完成了Login，结果：3
+[动态代理][⽇志] 15:49:36 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:49:42 完成了selectAll，参数：null
+[动态代理][⽇志] 15:49:42 完成了selectAll，结果：null
+[动态代理][⽇志] 15:49:42 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:50:42 完成了Login，参数：null
+[动态代理][⽇志] 15:50:42 完成了Login，结果：3
+[动态代理][⽇志] 15:50:42 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:50:50 完成了selectAll，参数：null
+[动态代理][⽇志] 15:50:50 完成了selectAll，结果：null
+[动态代理][⽇志] 15:50:50 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:51:38 完成了Login，参数：null
+[动态代理][⽇志] 15:51:38 完成了Login，结果：3
+[动态代理][⽇志] 15:51:38 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 15:51:44 完成了selectAll，参数：null
+[动态代理][⽇志] 15:51:44 完成了selectAll，结果：null
+[动态代理][⽇志] 15:51:44 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:22:09 完成了Login，参数：[1]
+[动态代理][⽇志] 16:22:09 完成了Login，结果：3
+[动态代理][⽇志] 16:22:09 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:22:30 完成了Login，参数：[10005]
+[动态代理][⽇志] 16:22:30 完成了Login，结果：0
+[动态代理][⽇志] 16:22:30 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:22:37 完成了insert，参数：[10005]
+[动态代理][⽇志] 16:22:37 完成了insert，结果：null
+[动态代理][⽇志] 16:22:37 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:23:29 完成了Login，参数：[10005]
+[动态代理][⽇志] 16:23:29 完成了Login，结果：0
+[动态代理][⽇志] 16:23:29 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:23:34 完成了selectAll，参数：null
+[动态代理][⽇志] 16:23:34 完成了selectAll，结果：null
+[动态代理][⽇志] 16:23:34 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:23:38 完成了insert，参数：[10005]
+[动态代理][⽇志] 16:23:38 完成了insert，结果：null
+[动态代理][⽇志] 16:23:38 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:28:13 完成了insert，参数：[10005]
+[动态代理][⽇志] 16:28:13 完成了insert，结果：null
+[动态代理][⽇志] 16:28:13 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:31:34 完成了Login，参数：[10005]
+[动态代理][⽇志] 16:31:34 完成了Login，结果：0
+[动态代理][⽇志] 16:31:34 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:31:40 完成了insert，参数：[10005]
+[动态代理][⽇志] 16:31:40 完成了insert，结果：null
+[动态代理][⽇志] 16:31:40 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:34:34 完成了Login，参数：[1]
+[动态代理][⽇志] 16:34:34 完成了Login，结果：-1
+[动态代理][⽇志] 16:34:34 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:34:42 完成了Login，参数：[10005]
+[动态代理][⽇志] 16:34:42 完成了Login，结果：0
+[动态代理][⽇志] 16:34:42 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:34:46 完成了insert，参数：[10005]
+[动态代理][⽇志] 16:34:46 完成了insert，结果：null
+[动态代理][⽇志] 16:34:46 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 16:34:50 完成了selectAll，参数：null
+[动态代理][⽇志] 16:34:50 完成了selectAll，结果：null
+[动态代理][⽇志] 16:34:50 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:17:23 完成了Login，参数：[1]
+[动态代理][⽇志] 00:17:23 完成了Login，结果：3
+[动态代理][⽇志] 00:17:23 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:17:33 完成了selectAll，参数：null
+[动态代理][⽇志] 00:17:33 完成了selectAll，结果：null
+[动态代理][⽇志] 00:17:33 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:17:49 完成了Login，参数：[1]
+[动态代理][⽇志] 00:17:49 完成了Login，结果：-1
+[动态代理][⽇志] 00:17:49 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:28:28 完成了Login，参数：[10005]
+[动态代理][⽇志] 00:28:28 完成了Login，结果：0
+[动态代理][⽇志] 00:28:28 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:28:32 完成了insert，参数：[10005]
+[动态代理][⽇志] 00:28:32 完成了insert，结果：null
+[动态代理][⽇志] 00:28:32 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:29:03 完成了Login，参数：[10005]
+[动态代理][⽇志] 00:29:03 完成了Login，结果：0
+[动态代理][⽇志] 00:29:03 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:29:07 完成了insert，参数：[10005]
+[动态代理][⽇志] 00:29:07 完成了insert，结果：null
+[动态代理][⽇志] 00:29:07 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:29:21 完成了Login，参数：[10005]
+[动态代理][⽇志] 00:29:21 完成了Login，结果：0
+[动态代理][⽇志] 00:29:21 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:29:25 完成了insert，参数：[10005]
+[动态代理][⽇志] 00:29:25 完成了insert，结果：null
+[动态代理][⽇志] 00:29:25 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:30:25 完成了Login，参数：[10005]
+[动态代理][⽇志] 00:30:25 完成了Login，结果：0
+[动态代理][⽇志] 00:30:25 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 00:30:31 完成了insert，参数：[10005]
+[动态代理][⽇志] 00:30:31 完成了insert，结果：null
+[动态代理][⽇志] 00:30:31 完成了insert，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:00:12 完成了Login，参数：[1]
+[动态代理][⽇志] 01:00:12 完成了Login，结果：3
+[动态代理][⽇志] 01:00:12 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:00:21 完成了gradeUpdate，参数：[10005]
+[动态代理][⽇志] 01:00:21 完成了gradeUpdate，结果：null
+[动态代理][⽇志] 01:00:21 完成了gradeUpdate，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:06:04 完成了Login，参数：[1]
+[动态代理][⽇志] 01:06:04 完成了Login，结果：3
+[动态代理][⽇志] 01:06:04 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:06:13 完成了gradeUpdate，参数：[10005]
+[动态代理][⽇志] 01:06:13 完成了gradeUpdate，结果：null
+[动态代理][⽇志] 01:06:13 完成了gradeUpdate，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:28:32 完成了Login，参数：[1]
+[动态代理][⽇志] 01:28:32 完成了Login，结果：3
+[动态代理][⽇志] 01:28:32 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:28:36 完成了selectAll，参数：null
+[动态代理][⽇志] 01:28:36 完成了selectAll，结果：null
+[动态代理][⽇志] 01:28:36 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:29:41 完成了Login，参数：[1]
+[动态代理][⽇志] 01:29:41 完成了Login，结果：3
+[动态代理][⽇志] 01:29:41 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:29:45 完成了selectAll，参数：null
+[动态代理][⽇志] 01:29:45 完成了selectAll，结果：null
+[动态代理][⽇志] 01:29:45 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:36:50 完成了Login，参数：[1]
+[动态代理][⽇志] 01:36:50 完成了Login，结果：3
+[动态代理][⽇志] 01:36:50 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:36:56 完成了selectAll，参数：null
+[动态代理][⽇志] 01:36:56 完成了selectAll，结果：null
+[动态代理][⽇志] 01:36:56 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:37:04 完成了selectAll，参数：null
+[动态代理][⽇志] 01:37:04 完成了selectAll，结果：null
+[动态代理][⽇志] 01:37:04 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:37:18 完成了selectAll，参数：null
+[动态代理][⽇志] 01:37:18 完成了selectAll，结果：null
+[动态代理][⽇志] 01:37:18 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:48:13 完成了Login，参数：[1]
+[动态代理][⽇志] 01:48:13 完成了Login，结果：3
+[动态代理][⽇志] 01:48:13 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:48:23 完成了GPA2，参数：null
+[动态代理][⽇志] 01:48:23 完成了GPA2，结果：null
+[动态代理][⽇志] 01:48:23 完成了GPA2，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:53:20 完成了Login，参数：[1]
+[动态代理][⽇志] 01:53:20 完成了Login，结果：3
+[动态代理][⽇志] 01:53:20 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:53:28 完成了selectAll，参数：null
+[动态代理][⽇志] 01:53:28 完成了selectAll，结果：null
+[动态代理][⽇志] 01:53:28 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:53:52 完成了Login，参数：[1]
+[动态代理][⽇志] 01:53:52 完成了Login，结果：3
+[动态代理][⽇志] 01:53:52 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 01:53:59 完成了averageGpa，参数：null
+[动态代理][⽇志] 01:53:59 完成了averageGpa，结果：null
+[动态代理][⽇志] 01:53:59 完成了averageGpa，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:03:43 完成了Login，参数：[1]
+[动态代理][⽇志] 02:03:43 完成了Login，结果：3
+[动态代理][⽇志] 02:03:43 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:03:51 完成了averageGpa，参数：null
+[动态代理][⽇志] 02:03:51 完成了averageGpa，结果：null
+[动态代理][⽇志] 02:03:51 完成了averageGpa，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:16:26 完成了Login，参数：[1]
+[动态代理][⽇志] 02:16:26 完成了Login，结果：3
+[动态代理][⽇志] 02:16:26 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:16:33 完成了averageGpa，参数：null
+[动态代理][⽇志] 02:16:33 完成了averageGpa，结果：null
+[动态代理][⽇志] 02:16:33 完成了averageGpa，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:16:34 完成了maxGPA，参数：null
+[动态代理][⽇志] 02:16:34 完成了maxGPA，结果：null
+[动态代理][⽇志] 02:16:34 完成了maxGPA，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:44:59 完成了Login，参数：[1]
+[动态代理][⽇志] 02:44:59 完成了Login，结果：3
+[动态代理][⽇志] 02:44:59 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:45:11 完成了gradeAll，参数：null
+[动态代理][⽇志] 02:45:11 完成了gradeAll，结果：null
+[动态代理][⽇志] 02:45:11 完成了gradeAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:46:15 完成了Login，参数：[1]
+[动态代理][⽇志] 02:46:15 完成了Login，结果：3
+[动态代理][⽇志] 02:46:15 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:46:22 完成了gradeAll，参数：null
+[动态代理][⽇志] 02:46:22 完成了gradeAll，结果：null
+[动态代理][⽇志] 02:46:22 完成了gradeAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:46:48 完成了Login，参数：[1]
+[动态代理][⽇志] 02:46:48 完成了Login，结果：3
+[动态代理][⽇志] 02:46:48 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:46:59 完成了gradeAll，参数：null
+[动态代理][⽇志] 02:46:59 完成了gradeAll，结果：null
+[动态代理][⽇志] 02:46:59 完成了gradeAll，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:51:55 完成了Login，参数：[1]
+[动态代理][⽇志] 02:51:55 完成了Login，结果：3
+[动态代理][⽇志] 02:51:55 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:52:02 完成了gradeByStudentID，参数：null
+[动态代理][⽇志] 02:52:02 完成了gradeByStudentID，结果：null
+[动态代理][⽇志] 02:52:02 完成了gradeByStudentID，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:52:51 完成了Login，参数：[1]
+[动态代理][⽇志] 02:52:51 完成了Login，结果：3
+[动态代理][⽇志] 02:52:51 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:52:57 完成了gradeByStudentID，参数：null
+[动态代理][⽇志] 02:52:57 完成了gradeByStudentID，结果：null
+[动态代理][⽇志] 02:52:57 完成了gradeByStudentID，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:53:14 完成了Login，参数：[1]
+[动态代理][⽇志] 02:53:14 完成了Login，结果：3
+[动态代理][⽇志] 02:53:14 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 02:53:20 完成了gradeByStudentID，参数：null
+[动态代理][⽇志] 02:53:20 完成了gradeByStudentID，结果：null
+[动态代理][⽇志] 02:53:20 完成了gradeByStudentID，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:09:14 完成了Login，参数：[1]
+[动态代理][⽇志] 03:09:14 完成了Login，结果：3
+[动态代理][⽇志] 03:09:14 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:09:21 完成了averageGrade，参数：null
+[动态代理][⽇志] 03:09:21 完成了averageGrade，结果：null
+[动态代理][⽇志] 03:09:21 完成了averageGrade，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:12:34 完成了Login，参数：[1]
+[动态代理][⽇志] 03:12:34 完成了Login，结果：3
+[动态代理][⽇志] 03:12:34 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:12:42 完成了failGrade，参数：null
+[动态代理][⽇志] 03:12:42 完成了failGrade，结果：null
+[动态代理][⽇志] 03:12:42 完成了failGrade，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:13:44 完成了Login，参数：[1]
+[动态代理][⽇志] 03:13:44 完成了Login，结果：3
+[动态代理][⽇志] 03:13:44 完成了Login，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:13:51 完成了failGrade，参数：null
+[动态代理][⽇志] 03:13:51 完成了failGrade，结果：null
+[动态代理][⽇志] 03:13:51 完成了failGrade，⽅法执⾏完毕
+
+[动态代理][⽇志] 03:13:57 完成了averageGrade，参数：null
+[动态代理][⽇志] 03:13:57 完成了averageGrade，结果：null
+[动态代理][⽇志] 03:13:57 完成了averageGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:30:11 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 03:30:11 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 03:30:11 完成了Login，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 03:30:17 完成了GPA2，参数：null
+[动态代理][StudentProxy][⽇志] 03:30:17 完成了GPA2，结果：null
+[动态代理][StudentProxy][⽇志] 03:30:17 完成了GPA2，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 03:30:47 完成了averageGpa，参数：null
+[动态代理][StudentProxy][⽇志] 03:30:47 完成了averageGpa，结果：null
+[动态代理][StudentProxy][⽇志] 03:30:47 完成了averageGpa，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:48:55 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 10:48:55 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 10:48:55 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:29:15 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 14:29:15 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 14:29:15 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:29:32 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 14:29:32 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 14:29:32 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 14:29:37 完成了createCourse，参数：null
+[动态代理][CourseProxy][⽇志] 14:29:37 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 14:29:37 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:43:18 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 14:43:18 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 14:43:18 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 14:43:23 完成了createCourse，参数：[10015]
+[动态代理][CourseProxy][⽇志] 14:43:23 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 14:43:23 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:45:11 完成了Login，参数：[100015]
+[动态代理][UserProxy][⽇志] 14:45:11 完成了Login，结果：-1
+[动态代理][UserProxy][⽇志] 14:45:11 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:45:16 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 14:45:16 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 14:45:16 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 14:45:26 完成了createCourse，参数：[10015]
+[动态代理][CourseProxy][⽇志] 14:45:26 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 14:45:26 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 14:47:26 完成了createCourse，参数：[10015]
+[动态代理][CourseProxy][⽇志] 14:47:26 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 14:47:26 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:49:10 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 14:49:10 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 14:49:10 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 14:49:14 完成了insert，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 14:49:14 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 14:49:14 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 14:49:41 完成了insert，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 14:49:41 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 14:49:41 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 14:50:07 完成了insert，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 14:50:07 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 14:50:07 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 14:50:22 完成了insert，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 14:50:22 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 14:50:22 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 14:50:47 完成了insert，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 14:50:47 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 14:50:47 完成了insert，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:08:09 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 15:08:09 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 15:08:09 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 15:08:14 完成了courseInfo，参数：[10015]
+[动态代理][CourseProxy][⽇志] 15:08:14 完成了courseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 15:08:14 完成了courseInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:11:25 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 15:11:25 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 15:11:25 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 15:11:30 完成了courseInfo，参数：[10015]
+[动态代理][CourseProxy][⽇志] 15:11:30 完成了courseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 15:11:30 完成了courseInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:26:49 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 15:26:49 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 15:26:49 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:26:57 完成了gradeUpdateByCourse，参数：[10015]
+[动态代理][EnrollmentProxy][⽇志] 15:26:57 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:26:57 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:37:40 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 15:37:40 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 15:37:40 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 15:37:44 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 15:37:44 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 15:37:44 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:47:37 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 15:47:37 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 15:47:37 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:47:44 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:47:44 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:47:44 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:48:08 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:48:08 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:48:08 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:48:23 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 15:48:23 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 15:48:23 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:48:29 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:48:29 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:48:29 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:48:39 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:48:39 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:48:39 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:50:10 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 15:50:10 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 15:50:10 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:50:16 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:50:16 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:50:16 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:50:36 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:50:36 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:50:36 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 15:51:03 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 15:51:03 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 15:51:03 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:51:08 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:51:08 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:51:08 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 15:51:13 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 15:51:13 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 15:51:13 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 16:52:19 完成了Login，参数：[10016]
+[动态代理][UserProxy][⽇志] 16:52:19 完成了Login，结果：2
+[动态代理][UserProxy][⽇志] 16:52:19 完成了Login，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 16:52:28 完成了viewClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 16:52:28 完成了viewClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 16:52:28 完成了viewClass，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 17:00:21 完成了Login，参数：[10016]
+[动态代理][UserProxy][⽇志] 17:00:21 完成了Login，结果：2
+[动态代理][UserProxy][⽇志] 17:00:21 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 17:01:00 完成了Login，参数：[10016]
+[动态代理][UserProxy][⽇志] 17:01:00 完成了Login，结果：2
+[动态代理][UserProxy][⽇志] 17:01:00 完成了Login，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 17:01:06 完成了manageClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 17:01:06 完成了manageClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 17:01:06 完成了manageClass，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:08:34 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 01:08:34 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 01:08:34 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:11:41 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 01:11:41 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 01:11:41 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:17:11 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 01:17:11 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 01:17:11 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:18:01 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 01:18:01 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 01:18:01 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:18:06 完成了reviewById，参数：[10005]
+[动态代理][CourseReviewProxy][⽇志] 01:18:06 完成了reviewById，结果：null
+[动态代理][CourseReviewProxy][⽇志] 01:18:06 完成了reviewById，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:18:49 完成了reviewById，参数：[10005]
+[动态代理][CourseReviewProxy][⽇志] 01:18:49 完成了reviewById，结果：null
+[动态代理][CourseReviewProxy][⽇志] 01:18:49 完成了reviewById，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:18:59 完成了reviewById，参数：[10005]
+[动态代理][CourseReviewProxy][⽇志] 01:18:59 完成了reviewById，结果：null
+[动态代理][CourseReviewProxy][⽇志] 01:18:59 完成了reviewById，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:50:40 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:50:40 完成了Login，异常：null
+[动态代理][UserProxy][⽇志] 01:50:40 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:51:00 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:51:00 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 01:51:00 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:51:07 完成了delete，参数：null
+[动态代理][UserProxy][⽇志] 01:51:07 完成了delete，结果：null
+[动态代理][UserProxy][⽇志] 01:51:07 完成了delete，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:17 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:52:32 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:32 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:17 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:17 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:35 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:36 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:36 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:36 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:37 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:37 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:37 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:38 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:38 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:38 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:52:39 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:54:09 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:54:09 完成了Login，异常：null
+[动态代理][UserProxy][⽇志] 01:54:09 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:54:20 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:54:20 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 01:54:20 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:03 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:55:24 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:24 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:24 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:03 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:25 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:03 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:26 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:27 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:29 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:29 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:29 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:55:32 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:55:32 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:55:32 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:55:33 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:55:33 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:55:33 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.UserServiceImpl@662b4c69
+[动态代理][UserProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@25084a1e
+[动态代理][StudentProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@156b88f5
+[动态代理][CourseProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@3bf9ce3e
+[动态代理][EnrollmentProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@16610890
+[动态代理][SchoolClassProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 01:55:34 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 01:55:34 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@4d465b11
+[动态代理][CourseReviewProxy][⽇志] 01:55:34 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:57:08 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 01:57:08 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 01:57:08 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 01:57:13 完成了delete，参数：null
+[动态代理][UserProxy][⽇志] 01:57:13 完成了delete，结果：null
+[动态代理][UserProxy][⽇志] 01:57:13 完成了delete，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:03:41 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:03:41 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:03:41 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:05:47 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:06:13 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:13 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:13 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:15 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:15 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:15 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:05:47 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:05:47 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:16 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:17 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:18 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:18 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:18 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@505fc5a4
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@5fbdfdcf
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@4efc180e
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@bd4dc25
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@3bf9ce3e
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@505fc5a4
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@5fbdfdcf
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@4efc180e
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@bd4dc25
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@3bf9ce3e
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.UserServiceImpl@76c3e77a
+[动态代理][UserProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@505fc5a4
+[动态代理][StudentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@5fbdfdcf
+[动态代理][CourseProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@4efc180e
+[动态代理][EnrollmentProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@bd4dc25
+[动态代理][SchoolClassProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@3bf9ce3e
+[动态代理][CourseReviewProxy][⽇志] 02:06:19 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:09:19 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:09:19 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:09:19 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:09:24 完成了insert，参数：null
+[动态代理][UserProxy][⽇志] 02:09:24 完成了insert，结果：null
+[动态代理][UserProxy][⽇志] 02:09:24 完成了insert，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:10:32 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:10:32 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:10:32 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:10:36 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 02:10:36 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 02:10:36 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:01 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:12:01 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:12:01 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:04 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 02:12:04 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 02:12:04 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:49 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:49 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:49 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:58 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:12:59 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:00 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:00 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:00 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:01 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:01 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:01 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:02 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:03 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:04 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:04 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:04 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:05 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:05 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:05 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:06 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.UserServiceImpl@fa49800
+[动态代理][UserProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][StudentProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][StudentProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.StudenSeviceImpl@156b88f5
+[动态代理][StudentProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][CourseProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.CourseServiceImpl@3bf9ce3e
+[动态代理][CourseProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@16610890
+[动态代理][EnrollmentProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][SchoolClassProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.SchooleClassServiceImpl@71def8f8
+[动态代理][SchoolClassProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 02:13:09 完成了toString，参数：null
+[动态代理][CourseReviewProxy][⽇志] 02:13:09 完成了toString，结果：org.example.service.Impl.CourseReviewServiceImpl@53fdffa1
+[动态代理][CourseReviewProxy][⽇志] 02:13:09 完成了toString，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:13:12 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 02:13:12 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 02:13:12 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:16:51 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:16:51 完成了Login，结果：-1
+[动态代理][UserProxy][⽇志] 02:16:51 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:16:55 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:16:55 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:16:55 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:17:02 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 02:17:02 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 02:17:02 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:18:38 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:18:38 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:18:38 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:18:41 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 02:18:41 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 02:18:41 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:26:32 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:26:32 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:26:32 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:26:38 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:26:38 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:26:38 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:39:39 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:39:39 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:39:39 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:39:46 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:39:46 完成了enrollmentInfo，异常：null
+[动态代理][EnrollmentProxy][⽇志] 02:39:46 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:43:20 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:43:20 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:43:20 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:43:25 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:43:25 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:43:25 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:45:43 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 02:45:43 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 02:45:43 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:45:50 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 02:45:50 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:45:50 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:46:01 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 02:46:01 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 02:46:01 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:52:09 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 02:52:09 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 02:52:09 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:52:52 完成了Login，参数：[10015]
+[动态代理][UserProxy][⽇志] 02:52:52 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 02:52:52 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:53:04 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 02:53:04 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 02:53:04 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:54:37 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 02:54:37 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 02:54:37 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 02:54:40 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 02:54:40 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 02:54:40 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:54:45 完成了selectByUserId，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 02:54:45 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:54:45 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:54:50 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 02:54:50 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:54:50 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 09:58:04 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 09:58:04 完成了Login，结果：-1
+[动态代理][UserProxy][⽇志] 09:58:04 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 09:58:11 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 09:58:11 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 09:58:11 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 09:58:37 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 09:58:37 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 09:58:37 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 09:59:13 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 09:59:13 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 09:59:13 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 09:59:57 完成了Login，参数：[10006]
+[动态代理][UserProxy][⽇志] 09:59:57 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 09:59:57 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:00:01 完成了insert，参数：[10006]
+[动态代理][EnrollmentProxy][⽇志] 10:00:01 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:00:01 完成了insert，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:00:50 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 10:00:50 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 10:00:50 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:00:57 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 10:00:57 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:00:57 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:01:14 完成了Login，参数：[10018]
+[动态代理][UserProxy][⽇志] 10:01:14 完成了Login，结果：-1
+[动态代理][UserProxy][⽇志] 10:01:14 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:01:33 完成了Login，参数：[10008]
+[动态代理][UserProxy][⽇志] 10:01:33 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 10:01:33 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:01:39 完成了insert，参数：[10008]
+[动态代理][EnrollmentProxy][⽇志] 10:01:39 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:01:39 完成了insert，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 10:02:03 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 10:02:03 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 10:02:03 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:02:14 完成了selectByUserId，参数：[10008]
+[动态代理][EnrollmentProxy][⽇志] 10:02:14 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:02:14 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:02:20 完成了selectGrade，参数：[10008]
+[动态代理][EnrollmentProxy][⽇志] 10:02:20 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:02:20 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 10:02:28 完成了reviewById，参数：[10008]
+[动态代理][CourseReviewProxy][⽇志] 10:02:28 完成了reviewById，结果：null
+[动态代理][CourseReviewProxy][⽇志] 10:02:28 完成了reviewById，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:03:06 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 10:03:06 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 10:03:06 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 10:03:15 完成了currentCourseInfo，参数：[10000]
+[动态代理][CourseProxy][⽇志] 10:03:15 完成了currentCourseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 10:03:15 完成了currentCourseInfo，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 10:03:36 完成了createCourse，参数：[10000]
+[动态代理][CourseProxy][⽇志] 10:03:36 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 10:03:36 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 10:04:11 完成了currentCourseInfo，参数：[10000]
+[动态代理][CourseProxy][⽇志] 10:04:11 完成了currentCourseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 10:04:11 完成了currentCourseInfo，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 10:04:15 完成了courseInfo，参数：[10000]
+[动态代理][CourseProxy][⽇志] 10:04:15 完成了courseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 10:04:15 完成了courseInfo，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:04:35 完成了gradeUpdateByCourse，参数：[10000]
+[动态代理][EnrollmentProxy][⽇志] 10:04:35 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:04:35 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:08:37 完成了Login，参数：[10006]
+[动态代理][UserProxy][⽇志] 10:08:37 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 10:08:37 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:08:56 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 10:08:56 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 10:08:56 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:10:05 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 10:10:05 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 10:10:05 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:12:49 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 10:12:49 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 10:12:49 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 10:12:56 完成了gradeUpdateByCourse，参数：[10000]
+[动态代理][EnrollmentProxy][⽇志] 10:12:56 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 10:12:56 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 10:14:00 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 10:14:00 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 10:14:00 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 14:32:36 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 14:32:36 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 14:32:36 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 14:32:41 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 14:32:41 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 14:32:41 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:07:59 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:07:59 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:07:59 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:08:07 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:08:07 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:08:07 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:08:14 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 02:08:14 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 02:08:14 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:11:57 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 02:11:57 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 02:11:57 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:12:02 完成了gradeUpdateByCourse，参数：[10000]
+[动态代理][EnrollmentProxy][⽇志] 02:12:54 完成了toString，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:12:54 完成了toString，结果：org.example.service.Impl.EnrollmentServiceImpl@7bd4937b
+[动态代理][EnrollmentProxy][⽇志] 02:12:54 完成了toString，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:12:02 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:12:02 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:26:02 完成了Login，参数：[10005]
+[动态代理][UserProxy][⽇志] 02:26:02 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 02:26:02 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:26:08 完成了selectGrade，参数：[10005]
+[动态代理][EnrollmentProxy][⽇志] 02:26:08 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:26:08 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:35:45 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 02:35:45 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 02:35:45 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 02:52:38 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 02:52:38 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 02:52:38 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 02:52:44 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 02:52:44 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 02:52:44 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:21:11 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 03:21:11 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 03:21:11 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:25:35 完成了ChangePassword，参数：null
+[动态代理][UserProxy][⽇志] 03:25:35 完成了ChangePassword，结果：false
+[动态代理][UserProxy][⽇志] 03:25:35 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:25:59 完成了ChangePassword，参数：null
+[动态代理][UserProxy][⽇志] 03:25:59 完成了ChangePassword，结果：true
+[动态代理][UserProxy][⽇志] 03:25:59 完成了ChangePassword，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:26:50 完成了Login，参数：[10009]
+[动态代理][UserProxy][⽇志] 03:26:50 完成了Login，结果：0
+[动态代理][UserProxy][⽇志] 03:26:50 完成了Login，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:27:55 完成了insert，参数：[10009]
+[动态代理][EnrollmentProxy][⽇志] 03:27:55 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:27:55 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:28:38 完成了insert，参数：[10009]
+[动态代理][EnrollmentProxy][⽇志] 03:28:38 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:28:38 完成了insert，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:29:39 完成了insert，参数：[10009]
+[动态代理][EnrollmentProxy][⽇志] 03:29:39 完成了insert，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:29:39 完成了insert，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 03:31:56 完成了selectAll，参数：null
+[动态代理][CourseProxy][⽇志] 03:31:56 完成了selectAll，结果：null
+[动态代理][CourseProxy][⽇志] 03:31:56 完成了selectAll，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:32:22 完成了selectByUserId，参数：[10009]
+[动态代理][EnrollmentProxy][⽇志] 03:32:22 完成了selectByUserId，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:32:22 完成了selectByUserId，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:33:05 完成了selectGrade，参数：[10009]
+[动态代理][EnrollmentProxy][⽇志] 03:33:05 完成了selectGrade，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:33:05 完成了selectGrade，⽅法执⾏完毕
+
+[动态代理][CourseReviewProxy][⽇志] 03:33:20 完成了reviewById，参数：[10009]
+[动态代理][CourseReviewProxy][⽇志] 03:33:20 完成了reviewById，结果：null
+[动态代理][CourseReviewProxy][⽇志] 03:33:20 完成了reviewById，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:34:08 完成了Login，参数：[1]
+[动态代理][UserProxy][⽇志] 03:34:08 完成了Login，结果：3
+[动态代理][UserProxy][⽇志] 03:34:08 完成了Login，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:34:42 完成了roleChange，参数：null
+[动态代理][UserProxy][⽇志] 03:34:42 完成了roleChange，结果：null
+[动态代理][UserProxy][⽇志] 03:34:42 完成了roleChange，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:36:08 完成了insert，参数：null
+[动态代理][UserProxy][⽇志] 03:36:08 完成了insert，结果：null
+[动态代理][UserProxy][⽇志] 03:36:08 完成了insert，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:36:48 完成了delete，参数：null
+[动态代理][UserProxy][⽇志] 03:36:48 完成了delete，结果：null
+[动态代理][UserProxy][⽇志] 03:36:48 完成了delete，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:37:09 完成了enrollmentInfo，参数：null
+[动态代理][EnrollmentProxy][⽇志] 03:37:09 完成了enrollmentInfo，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:37:09 完成了enrollmentInfo，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:37:37 完成了Login，参数：[10000]
+[动态代理][UserProxy][⽇志] 03:37:37 完成了Login，结果：1
+[动态代理][UserProxy][⽇志] 03:37:37 完成了Login，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 03:38:32 完成了createCourse，参数：[10000]
+[动态代理][CourseProxy][⽇志] 03:38:32 完成了createCourse，结果：null
+[动态代理][CourseProxy][⽇志] 03:38:32 完成了createCourse，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 03:39:29 完成了currentCourseInfo，参数：[10000]
+[动态代理][CourseProxy][⽇志] 03:39:29 完成了currentCourseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 03:39:29 完成了currentCourseInfo，⽅法执⾏完毕
+
+[动态代理][CourseProxy][⽇志] 03:39:42 完成了courseInfo，参数：[10000]
+[动态代理][CourseProxy][⽇志] 03:39:42 完成了courseInfo，结果：null
+[动态代理][CourseProxy][⽇志] 03:39:42 完成了courseInfo，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:39:52 完成了gradeUpdateByCourse，参数：[10000]
+[动态代理][EnrollmentProxy][⽇志] 03:39:52 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:39:52 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][EnrollmentProxy][⽇志] 03:40:05 完成了gradeUpdateByCourse，参数：[10000]
+[动态代理][EnrollmentProxy][⽇志] 03:40:05 完成了gradeUpdateByCourse，结果：null
+[动态代理][EnrollmentProxy][⽇志] 03:40:05 完成了gradeUpdateByCourse，⽅法执⾏完毕
+
+[动态代理][UserProxy][⽇志] 03:40:55 完成了Login，参数：[10016]
+[动态代理][UserProxy][⽇志] 03:40:55 完成了Login，结果：2
+[动态代理][UserProxy][⽇志] 03:40:55 完成了Login，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 03:40:59 完成了viewClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 03:40:59 完成了viewClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 03:40:59 完成了viewClass，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 03:42:06 完成了manageClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 03:42:06 完成了manageClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 03:42:06 完成了manageClass，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 03:43:06 完成了manageClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 03:43:06 完成了manageClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 03:43:06 完成了manageClass，⽅法执⾏完毕
+
+[动态代理][SchoolClassProxy][⽇志] 03:43:28 完成了manageClass，参数：[10016]
+[动态代理][SchoolClassProxy][⽇志] 03:43:28 完成了manageClass，结果：null
+[动态代理][SchoolClassProxy][⽇志] 03:43:28 完成了manageClass，⽅法执⾏完毕
+
