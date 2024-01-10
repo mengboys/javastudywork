@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Properties;
 
-//宋源博-2211650123
+//连接数据据库
 public class ConnectionFactory {
     private static Properties props = new Properties();
 

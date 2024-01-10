@@ -7,7 +7,7 @@ import java.net.URLDecoder;
 import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Map;
-
+//实现Bean容器
 public class AnnotationApplicationContext implements ApplicationContext {
     //存储bean的容器
     private HashMap<Class, Object> beanFactory = new HashMap<>();

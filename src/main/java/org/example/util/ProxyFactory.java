@@ -10,7 +10,7 @@ import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 
-
+//动态代理工厂
 public class ProxyFactory {
     private Object target;
     private FileWriter fileWriter;

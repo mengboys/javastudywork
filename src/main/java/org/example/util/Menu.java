@@ -6,7 +6,7 @@ import org.example.entity.Enrollment;
 import org.example.service.*;
 
 import java.util.Scanner;
-
+//菜单界面
 public class Menu {
     private Scanner input = null;
     ApplicationContext applicationContext = new AnnotationApplicationContext("org.example");
